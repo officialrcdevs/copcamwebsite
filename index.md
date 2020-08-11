@@ -6,7 +6,7 @@ Our app collects personally-unidentifiable information for understanding general
 
 ### How our app will enhance user functionality
 
-Our app combines and automates certain functions of native and third party apps to generate the optimal user experience. For example, Copcam starts a Youtube livestream, and automatically alerts emergency contacts of the user's location and a link to view the stream. 
+Our app combines and automates certain functions of native and third party apps to generate the optimal user experience. For example, with one touch, Copcam starts a Youtube livestream, and automatically alerts emergency contacts of the user's location and a link to view the stream. 
 
 ### About our app
 
