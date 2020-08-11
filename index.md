@@ -2,14 +2,11 @@
 
 ### What we will do with user data
 
-Testing
+Our app collects personally-unidentifiable information for understanding general user information. We will occassionally collect user time and location data to improve our app's features and better serve our users. Personally identifiable information such as contact information is used for the key functionality of our app with the user's consent but is never stored by us. Third parties such as Youtube and Google are used in this app; consult their privacy policies to understand how your data may be used by them. 
 
-```
-```
+### How our app will enhance user functionality
 
-### How our app will enhancce user functionality
-```
-```
+Our app combines and automates certain functions of native and third party apps to generate the optimal user experience. For example, Copcam starts a Youtube livestream, and automatically alerts emergency contacts of the user's location and a link to view the stream. 
 
 ### About our app
 
