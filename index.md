@@ -12,7 +12,7 @@ Testing
 ```
 
 ### About our app
-```
+
 At Copcam, we believe that the systemic problem of police brutality has existed for too long, and we wanted to build an app to better hold police accountable. Our app is designed to prevent video evidence from being confiscated, lost, or tampered with. We do this with our livestream recording feature, which starts an unlisted YouTube livestream of the encounter and immediately sends an alert to emergency contacts containing your location and a link to the stream. This lets them see what is happening in real time to know if you are safe and if you need help.
 
 With the touch of one button, this app can automatically:
@@ -28,10 +28,10 @@ PROTECT - Dims screen brightness to zero in the case of a particularly hostile c
 Copcam isn't built for when things go right, but for when things go wrong. In only one touch, your loved ones can know where you are, know what's happening to you, and have the evidence to act on it.
 
 Technology is a powerful tool. With Copcam, you are fighting for justice to be protected and preserved. Lets stand together to bring an end to police brutality.
-```
+
 
 ## Our privacy policy
-```
+
 Privacy Policy
 RC Devs built the Copcam app as a free app. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our service.
 
@@ -83,11 +83,6 @@ Changes to This Privacy Policy
 We may update our privacy policy from time to time. Thus, you are advised to review this page periodically for any changes. Any new privacy policy we draft will be released on this page.
 
 This policy is effective as of 2020-08-10
-
-Contact Us
-
-If you have any questions or suggestions about our privacy policy, do not hesitate to contact us at rclabsapp@gmail.com.
-```
 
 ### Support or Contact
 If you have any questions, want to provide support, or just reach out, contact us at:
