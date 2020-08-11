@@ -1,5 +1,7 @@
 # Welcome to Copcam
 
+Click here to view our main page: https://copcam.flycricket.io/
+
 ### What we will do with user data
 
 Our app collects personally-unidentifiable information for understanding general user information. We will occassionally collect user time and location data to improve our app's features and better serve our users. Personally identifiable information such as contact information is used for the key functionality of our app with the user's consent but is never stored by us. Third parties such as Youtube and Google are used in this app; consult their privacy policies to understand how your data may be used by them. 
