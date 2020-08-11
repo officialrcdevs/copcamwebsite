@@ -29,6 +29,8 @@ Technology is a powerful tool. With Copcam, you are fighting for justice to be p
 
 ## Our privacy policy
 
+To access the official privacy policy, visit: https://copcam.flycricket.io/privacy.html
+
 Privacy Policy
 RC Devs built the Copcam app as a free app. This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our service.
 
