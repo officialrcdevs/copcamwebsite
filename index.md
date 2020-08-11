@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Copcam
 
-You can use the [editor on GitHub](https://github.com/officialrcdevs/copcamwebsite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### What we will do with user data
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### How our app will enhancce user functionality: 
 
-### Markdown
+### Click [here](https://copcam.flycricket.io/privacy.html) to view our privacy policy
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```
+At Copcam, we believe that the systemic problem of police brutality has existed for too long, and we wanted to build an app to better hold police accountable. Our app is designed to prevent video evidence from being confiscated, lost, or tampered with. We do this with our livestream recording feature, which starts an unlisted YouTube livestream of the encounter and immediately sends an alert to emergency contacts containing your location and a link to the stream. This lets them see what is happening in real time to know if you are safe and if you need help.
 
-```markdown
-Syntax highlighted code block
+With the touch of one button, this app can automatically:
 
-# Header 1
-## Header 2
-### Header 3
+LIVE STREAM - Securely streams to YouTube as an unlisted live stream, where only your loved ones will be able to view. Law enforcement will not be able to tamper with this evidence.
 
-- Bulleted
-- List
+NOTIFY - Automatically sends a text to predetermined emergency contacts containing your location and a link to the YouTube live stream.
 
-1. Numbered
-2. List
+PRESERVE - Takes a backup local recording as well. Even in the worst case, you will have some form of evidence safe and secure.
 
-**Bold** and _Italic_ and `Code` text
+PROTECT - Dims screen brightness to zero in the case of a particularly hostile cop.
 
-[Link](url) and ![Image](src)
+Copcam isn't built for when things go right, but for when things go wrong. In only one touch, your loved ones can know where you are, know what's happening to you, and have the evidence to act on it.
+
+Technology is a powerful tool. With Copcam, you are fighting for justice to be protected and preserved. Lets stand together to bring an end to police brutality.
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/officialrcdevs/copcamwebsite/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you have any questions, want to provide support, or just reach out, contact us at:
+rclabsapp@gmail.com
